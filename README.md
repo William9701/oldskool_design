@@ -189,4 +189,4 @@ Bootstrap already has a comprehensive documentation site that will guide you in 
 [Swiper.js](https://swiperjs.com/)
 
 ## Contact Us
-You can reach me at [Email](williamobi818@gmail.com)!!!
+You can reach me at [Email](williamobi818@gmail.com)!!!!
